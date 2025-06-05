@@ -16,7 +16,7 @@
 - 🏫 Provider: HALA Academy
 - 🗓️ Duration: March 2025 - June 2025
 - 📚 Topics: C, C++, Algorithm, Data Structure, OOP, Autosar
-- 🔍 Overview: [Github Repo][https://github.com/binhnguyen-0/ADVANCED_C_Cpp]
-- 📂 Autosar Project: [Github Repo][...]
+- 🔍 Overview: [GitHub Repo][https://github.com/binhnguyen-0/ADVANCED_C_Cpp]
+- 📂 Autosar Project: [GitHub Repo][...]
 
 
