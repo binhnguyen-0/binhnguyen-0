@@ -21,5 +21,4 @@
 - 🗓️ Duration: 16hr++
 - 📚 Topics: basic C - Pointer, Structure, Union, Array, String
 - 🔍 Overview: [GitHub Repo](...)
-- 📂 Autosar Project: [GitHub Repo](...)
 
