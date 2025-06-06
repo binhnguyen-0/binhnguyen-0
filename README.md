@@ -9,16 +9,16 @@
 ---
 
 ## 📚 Courses & Certifications
-### 🔧 Advance C/C++ Algorithm
+### 🔧 Advanced C/C++ Algorithm
 - 🏫 Provider: HALA Academy
 - 🗓️ Duration: March 2025 - June 2025
-- 📚 Topics: C, C++, Algorithm, Data Structure, OOP, Autosar
+- 📚 Topics: Advanced C, C++, Algorithm, Data Structure, OOP, Autosar
 - 🔍 Overview: [GitHub Repo](https://github.com/binhnguyen-0/ADVANCED_C_Cpp)
 - 📂 Autosar Project: [GitHub Repo](...)
 
 ### 🔧 Microcontroller Embedded C Programming: Absolute Beginners
-- 🏫 Provider: Udemy
+- 🏫 Provider: Udemy (FastBit Embedded Brain Academy)
 - 🗓️ Duration: 16hr++
-- 📚 Topics: basic C - Pointer, Structure, Union, Array, String
-- 🔍 Overview: [GitHub Repo](...)
+- 📚 Topics: Basic C, using STM32F407 DISCOVERY Board
+- 🔍 Overview: [GitHub Repo](https://github.com/binhnguyen-0/Microcontroller-Embedded-C-Programming-Absolute-Beginners)
 
