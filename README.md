@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ngô Bình Nguyên
+# 👋 Hi, I am Ngô Bình Nguyên
 
 ## 👨‍🦱 About me
 🎓 I'm an Embedded Software Developer  
