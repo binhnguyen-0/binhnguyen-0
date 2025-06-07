@@ -16,4 +16,10 @@
 - 🔍 **Overview**: [GitHub Repo](https://github.com/binhnguyen-0/ADVANCED_C_Cpp)
 - 📂 **Autosar Project**: [GitHub Repo](...)
 
+### 🔧 Embedded in Automotive
+- 🏫 **Provider**: HALA Academy
+- 🗓️ **Duration**: November 2024 - April 2025
+- 📚 **Topics**: GPIO, Interrupt-Timer, SPI, I2C, UART, ADC, DMA, Flash & Bootloader, CAN, LIN, AUTOSAR
+- 🔍 **Overview**: [GitHub Repo](https://github.com/binhnguyen-0/Embedded-in-Automotive)
+
 
